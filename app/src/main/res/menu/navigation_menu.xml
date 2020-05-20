@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/task_nav"
+    android:icon="@drawable/ic_local_shipping_black_task_24dp"
+    android:title="@string/task"
+    />
+
+    <item
+        android:id="@+id/scanner_nav"
+        android:icon="@drawable/ic_crop_free_black_scanner_24dp"
+        android:title="@string/scanner"
+        />
+    <item
+        android:id="@+id/profile_nav"
+        android:icon="@drawable/ic_person_black_profile_24dp"
+        android:title="@string/profile"
+        />
+</menu>

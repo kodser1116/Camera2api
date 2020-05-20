@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="task">Задание</string>
+    <string name="scanner">Сканер</string>
+    <string name="profile">Профиль</string>
+
+</resources>
